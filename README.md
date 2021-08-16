@@ -1,2 +1,2 @@
 # python-projects
-here a few school's projects 
+a data base using python and sqlite 
